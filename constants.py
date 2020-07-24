@@ -1,1 +1,1 @@
-GUY_WHO_FUCKED_HER_FIRST = "xoxo"
+GUY_WHO_FUCKS_MEN = "xoxo"
